@@ -1,0 +1,3 @@
+[submodule "auth_modules"]
+	path = auth_modules
+	url = https://github.com/omarmohsen179/microservice-models-flask.git
