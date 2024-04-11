@@ -1,6 +1,6 @@
 
 import requests
-from flask import request, jsonify
+from flask import request, jsonify, Flask
 from service import create_user, assign_role_to_user
 from auth_modules.models import db, User, Role, UserRoles
 app = Flask(__name__)

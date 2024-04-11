@@ -1,6 +1,5 @@
 
 import requests
-from flask import request
 from auth_modules.models import db, User, Role, UserRoles
 
 
