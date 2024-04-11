@@ -1,0 +1,6 @@
+[submodule "roles_service/roles_modules"]
+	path = roles_service/roles_modules
+	url = https://github.com/omarmohsen179/microservice-models-flask.git
+[submodule "users_service/users_modules"]
+	path = users_service/users_modules
+	url = https://github.com/omarmohsen179/microservice-models-flask.git
