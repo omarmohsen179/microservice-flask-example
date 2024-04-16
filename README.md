@@ -28,7 +28,8 @@ A step by step series of examples that tell you how to get a development environ
    ```
 3. Clone the submodule for the shared database module:
    ```
-   git submodule add https://github.com/omarmohsen179/microservice-models-flask.git path/to/your/directory
+   git submodule add https://github.com/omarmohsen179/microservice-models-flask.git users_service/users_modules
+   git submodule add https://github.com/omarmohsen179/microservice-models-flask.git roles_service/roles_modules
    git submodule init
    git submodule update
    ```

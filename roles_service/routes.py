@@ -1,4 +1,4 @@
-from auth_modules.models import db
+from roles_modules.models import db
 from flask import Flask, request, jsonify
 from service import create_role
 app = Flask(__name__)

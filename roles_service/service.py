@@ -1,5 +1,5 @@
 
-from auth_modules.models import db, Role
+from roles_modules.models import db, Role
 
 
 def create_role(name):
