@@ -1,6 +1,6 @@
 
 import requests
-from users_modules import db, User, Role, UserRoles
+from users_modules.models import db, User, Role, UserRoles
 
 
 def create_user(username):
